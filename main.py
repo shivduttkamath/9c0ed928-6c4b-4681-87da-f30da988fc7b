@@ -4,10 +4,4 @@
 # Created: 2015-12-08 02:29:07.083243
 #
 ################################################################################
-import streams
 
-streams.serial()
-
-while True:
-    print ("Hello Viper")
-    sleep(1000)
